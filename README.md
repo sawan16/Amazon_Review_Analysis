@@ -3,7 +3,7 @@ Traditional vs Deep Learning Classifiers Performance analysis using amazon produ
 
 In this work, we present the relationship of model performance with varying dataset size and the varying number of target classes. Amazon product reviews used as the dataset for the experimentation.
 
-# Libraries Required
+## Libraries Required
 1. Python 3.6 or above
 2. Keras 2.2.4
 3. sklearn 0.21.2
@@ -17,4 +17,5 @@ https://drive.google.com/drive/folders/0Bz8a_Dbh9Qhbfll6bVpmNU\\tUcFdjYmF2SEpmZU
 ## Word2Vec Model File
 https://fasttext.cc/docs/en/english-vectors.html/wiki-news-300d-1M.vec.zip
 
-##
+## How to Run
+For binary classification experiment run 
