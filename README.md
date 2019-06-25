@@ -18,9 +18,9 @@ https://drive.google.com/drive/folders/0Bz8a_Dbh9Qhbfll6bVpmNU\\tUcFdjYmF2SEpmZU
 https://fasttext.cc/docs/en/english-vectors.html/wiki-news-300d-1M.vec.zip
 
 ## How to Run
-Binary classification experiment -> class_2_all.py
-Three Class Classification -> class_3_all.py
-Five Class Classification -> class_5_all.py
+Binary classification experiment -> class_2_all.py <br />
+Three Class Classification -> class_3_all.py  <br />
+Five Class Classification -> class_5_all.py  <br />
 
 We have provided experiment results in csv files. One combined file of all F scores is also included.
 
