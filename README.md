@@ -22,5 +22,6 @@ Binary classification experiment -> class_2_all.py <br />
 Three Class Classification -> class_3_all.py  <br />
 Five Class Classification -> class_5_all.py  <br />
 
-We have provided experiment results in csv files. One combined file of all F scores is also included.
+We have provided experiment results in csv files. One combined file of all F scores is also included. Some part of the python has been taken from the following web page.
+https://www.analyticsvidhya.com/blog/2018/04/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/
 
